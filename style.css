@@ -1,0 +1,17 @@
+body {
+    padding: 30px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  #plot {
+    margin-top: 20px;
+  }
+  
